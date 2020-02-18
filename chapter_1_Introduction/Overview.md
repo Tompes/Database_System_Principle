@@ -30,3 +30,8 @@ DBMS是由 <u>数据库</u> <large>+</large> <u>一组用于``访问``、``管�
     > * 1970s, RDBMS开始发展 ``Developing``
     > * 1980s, RDBMS走向市场 ``Commercialize``
     > * 1990s, RDBMS技术成熟 ``Mature``
+4. ``面向对象DBS`` (Object-oriented DBS or OODBS)
+5. ``对象关系DBS`` (Object-relational DBS or ORDBS)
+6. ``面向应用DBS`` (Application-oriented DBS or AODBS)
+    > 空间 、时间 、多媒体 、网络数据库.
+7. ``数据仓库`` (Data Warehousing) / ``联机分析处理``(Online Analytical Processing) /``数据挖掘`` (Data Mining)
